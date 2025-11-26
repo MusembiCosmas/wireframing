@@ -31,3 +31,26 @@ This determines where text, images, videos, and other content appear on the page
 ### 4. Functionality
 This shows interactive elements like forms, buttons, sliders, or search fields and how users interact with them.  
 **Example:** A login form in the header allows users to sign in quickly from any page.
+## Types of Wireframes
+
+Wireframes can be classified into two main types: low-fidelity and high-fidelity.
+
+### 1. Low-Fidelity Wireframes
+Low-fidelity wireframes are simple, rough sketches that focus on the basic structure and layout of a page without detailed design elements.  
+**Characteristics:**
+- Simple boxes and placeholders  
+- Minimal detail and no colors or images  
+- Quick to create and easy to modify  
+**Use Case:** Used early in the design process to explore ideas, plan layout, and gather feedback from team members or stakeholders.
+
+### 2. High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and closely resemble the final design. They include precise spacing, actual text, images, and sometimes basic interactions.  
+**Characteristics:**
+- Detailed layout with typography and images  
+- Often created using digital tools like Figma or Sketch  
+- Can include annotations for functionality  
+**Use Case:** Used later in the design process to finalize layout, test usability, and guide developers during implementation.
+
+## Wireframe Type in This Repository
+
+The wireframes discussed and outlined in this README are **low-fidelity wireframes**, as they focus on layout, content placement, navigation, and functionality without visual design elements like colors or images.
